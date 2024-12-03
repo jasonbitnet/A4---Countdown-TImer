@@ -6,8 +6,7 @@ hours minutes and seconds format. For example the user can set the time to 5 sec
 is run it would start at 0.0.5 in a box format and count to 4,3,2,1 and then write boom when the timer is completed.
 
 2. Github repo URL
-
+https://github.com/jasonbitnet/A4---Countdown-TImer.git
 
 3. Docker image URL
-
 https://hub.docker.com/r/jasonbitnet/countdown-timer
